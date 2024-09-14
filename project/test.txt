@@ -1,0 +1,5 @@
+empleado Ricardo, salario= 20.50 horas= 40;
+empleado Maria, salario= 18.75 horas= 35;
+empleado Ximena, salario= 22.00 horas= 45;
+empleado Ivan, salario= 19.00 horas= 30;
+
